@@ -1,0 +1,14 @@
+C:\OnedioProject\onedioProject\CoreLayer\bin\Release\net6.0\CoreLayer.deps.json
+C:\OnedioProject\onedioProject\CoreLayer\bin\Release\net6.0\CoreLayer.runtimeconfig.json
+C:\OnedioProject\onedioProject\CoreLayer\bin\Release\net6.0\CoreLayer.dll
+C:\OnedioProject\onedioProject\CoreLayer\bin\Release\net6.0\CoreLayer.pdb
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.csproj.AssemblyReference.cache
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.AssemblyInfoInputs.cache
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.AssemblyInfo.cs
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.dll
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\refint\CoreLayer.dll
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.pdb
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\CoreLayer.genruntimeconfig.cache
+C:\OnedioProject\onedioProject\CoreLayer\obj\Release\net6.0\ref\CoreLayer.dll

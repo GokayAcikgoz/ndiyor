@@ -1,0 +1,17 @@
+C:\OnedioProject\onedioProject\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.deps.json
+C:\OnedioProject\onedioProject\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.dll
+C:\OnedioProject\onedioProject\DataAccessLayer\bin\Release\net6.0\DataAccessLayer.pdb
+C:\OnedioProject\onedioProject\DataAccessLayer\bin\Release\net6.0\CoreLayer.dll
+C:\OnedioProject\onedioProject\DataAccessLayer\bin\Release\net6.0\EntityLayer.dll
+C:\OnedioProject\onedioProject\DataAccessLayer\bin\Release\net6.0\CoreLayer.pdb
+C:\OnedioProject\onedioProject\DataAccessLayer\bin\Release\net6.0\EntityLayer.pdb
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.csproj.CopyComplete
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.dll
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\refint\DataAccessLayer.dll
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\DataAccessLayer.pdb
+C:\OnedioProject\onedioProject\DataAccessLayer\obj\Release\net6.0\ref\DataAccessLayer.dll
